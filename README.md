@@ -12,9 +12,6 @@ A Python desktop app with GUI (PyQt5) that organizes files in a selected folder 
 - Automatically creates subfolders
 - Sorts Images, Videos, Music, Docs, and more
 
-## 📸 Screenshot
-*(Add screenshot later)*
-
 ## 🚀 How to Run
 ```bash
 python main.py
