@@ -1,7 +1,8 @@
 # Smart File Manager 🧠📂
 
 A Python desktop app with GUI (PyQt5) that organizes files in a selected folder into categories like Images, Videos, Documents, etc.
-![alt text](image.png)
+![Smart File Manager Screenshot](image.png)
+
 
 ## 💻 Built With
 - Python 3
